@@ -1,26 +1,25 @@
 {
-  "name": "reuters-headlines",
+  "name": "feedtitles",
   "version": "1.0.0",
-  "description": "Array of headlines from reuters news",
+  "description": "Extract titles from rss feeds",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TJkrusinski/reuters-headlines.git"
+    "url": "git://github.com/TJkrusinski/feedtitles.git"
   },
   "keywords": [
-    "reuters",
-    "news",
+    "xml",
     "scraper"
   ],
   "author": "TJ Krusinski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TJkrusinski/reuters-headlines/issues"
+    "url": "https://github.com/TJkrusinski/feedtitles/issues"
   },
-  "homepage": "https://github.com/TJkrusinski/reuters-headlines",
+  "homepage": "https://github.com/TJkrusinski/feedtitles",
   "dependencies": {
     "chai": "^1.9.1",
     "request": "^2.40.0",
