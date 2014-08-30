@@ -1,0 +1,29 @@
+{
+  "name": "reuters-headlines",
+  "version": "1.0.0",
+  "description": "Array of headlines from reuters news",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TJkrusinski/reuters-headlines.git"
+  },
+  "keywords": [
+    "reuters",
+    "news",
+    "scraper"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/reuters-headlines/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/reuters-headlines",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "request": "^2.40.0",
+    "sax": "^0.6.0"
+  }
+}
