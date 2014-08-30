@@ -30,7 +30,7 @@ titles.feed('http://feeds.reuters.com/Reuters/domesticNews');
 
 ## Tests
 
-Tests use [mocha](visionmedia/mocha)
+Tests use [mocha](/visionmedia/mocha)
 
 ```bash
 $ npm test
